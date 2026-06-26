@@ -5,6 +5,20 @@ Controls project, showing off inverting a double pendulum. Uses a motor belt dri
 
 I have recently graduated highschool and finished with FRC, now being a alum, and I wanted to put the things I learnt to use. The pendulum tests my knowledge in design, physics, math, and control theory. It also allows me to explore a LQR, a controller I have not used before while staying with a relitivly simple design.
 
+## Instructions
+
+### Hardware
+The cart is the only really strict part. Make sure wires are routed nicely. Second stage encoder wires should go through the middle of the first stage shatft.
+
+The main rail may be made of multiple section of rail, given that they get joined properly. 
+
+### Software
+
+Have UV set up with a python interpreter [Here](https://docs.astral.sh/uv/getting-started/installation/)
+
+1. Run `uv sync`
+2. Run `uv run LQR_Gains.py`
+
 <img width="2478" height="3504" alt="Assembly 2" src="https://github.com/user-attachments/assets/f7db4e86-a321-4156-8523-1838f20c18d3" />
 
 ## Links 
