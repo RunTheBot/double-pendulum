@@ -1,6 +1,10 @@
 # Double Inverted Pendulum
 Controls project, showing off inverting a double pendulum. Uses a motor belt drive on a MGN12 Rail. Software uses the USB to CAN function of the Spark Max to do current control from a LQR controller. 
 
+## But why?
+
+I have recently graduated highschool and finished with FRC, now being a alum, and I wanted to put the things I learnt to use. The pendulum tests my knowledge in design, physics, math, and control theory. It also allows me to explore a LQR, a controller I have not used before while staying with a relitivly simple design.
+
 <img width="2478" height="3504" alt="Assembly 2" src="https://github.com/user-attachments/assets/f7db4e86-a321-4156-8523-1838f20c18d3" />
 
 ## Links 
