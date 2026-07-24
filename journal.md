@@ -100,3 +100,8 @@ I quickly gave up on LQR and swithced to a double PID controller.
 Kinda worked but not too well, so I removed the second stage and it just worked far better.
 
 and thats a wrap!
+
+## July 24th
+Hours: 1h
+
+Journaling...
