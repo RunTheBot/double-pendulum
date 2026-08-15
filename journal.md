@@ -105,3 +105,19 @@ and thats a wrap!
 Hours: 1h
 
 Journaling...
+
+## Aug 10th to 12
+Hours: 4
+Very slow CADing of a redesign
+<img width="889" height="890" alt="image" src="https://github.com/user-attachments/assets/0e0084c7-19bf-4b58-b872-98def38fdf63" />
+
+## Aug 13th
+
+Hours: 2
+3D printing
+
+## Aug 14th
+Hours: 4h
+Started on rewiring, Using a SKR Pico for a stepper this time. passing encoder through a RP2350 since its a 5v sensor.
+
+
