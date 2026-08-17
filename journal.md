@@ -132,7 +132,5 @@ Programming... Got motor and encoder working. Motor was way to slow to be observ
 Hours: 4h
 Programming... AND TUNING!!!! and testing. No challange here really, smooth sailing
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/KhN0Yt5W-70">
-</iframe>
+<iframe width="420" height="315"src="https://www.youtube.com/embed/KhN0Yt5W-70"></iframe>
 
