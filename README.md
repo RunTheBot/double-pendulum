@@ -24,4 +24,5 @@ Have UV set up with a python interpreter [Here](https://docs.astral.sh/uv/gettin
 ## Links 
 [BOM](https://docs.google.com/spreadsheets/d/1-U5WBOVTvKiIzWNRjWvPPcvkB_1N992BvFvAFU30PCg/edit?usp=drivesdk)
 [CAD](https://cad.onshape.com/documents/92e4efa3a70eb3967f83ba85/w/20c97743881ff1b44bc084d7/e/63d9b33b154e04c3994da71a) 
-[Simulator/Software](https://github.com/RunTheBot/double-inverted-pendulum-sim)
+[Simulator/Software V1](https://github.com/RunTheBot/double-inverted-pendulum-sim)
+[Software V2](https://github.com/RunTheBot/Inverted-Pendulum-V2-FW/tree/master)
