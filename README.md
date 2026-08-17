@@ -1,6 +1,9 @@
 # Inverted Pendulum
 Controls project, showing off inverting a pendulum. Uses a motor belt drive on a MGN12 Rail. Software uses the USB to CAN function of the Spark Max to do current control from a LQR controller. 
 
+[<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d9969e3a-fe50-4f8b-a0c2-fca6e6d424be" />
+](https://www.youtube.com/watch?v=KhN0Yt5W-70)
+
 ## But why?
 
 I have recently graduated highschool and finished with FRC, now being a alum, and I wanted to put the things I learnt to use. The pendulum tests my knowledge in design, physics, math, and control theory. It also allows me to explore a LQR, a controller I have not used before while staying with a relitivly simple design.
