@@ -108,16 +108,31 @@ Journaling...
 
 ## Aug 10th to 12
 Hours: 4
-Very slow CADing of a redesign
+Very slow CADing of a redesign. Using a stepper motor now soo yay.
 <img width="889" height="890" alt="image" src="https://github.com/user-attachments/assets/0e0084c7-19bf-4b58-b872-98def38fdf63" />
 
 ## Aug 13th
 
-Hours: 2
-3D printing
+Hours: 1
+3D printing...
+
 
 ## Aug 14th
 Hours: 4h
 Started on rewiring, Using a SKR Pico for a stepper this time. passing encoder through a RP2350 since its a 5v sensor.
+<img width="2480" height="3307" alt="image" src="https://github.com/user-attachments/assets/cc54e00a-602b-4202-8dbe-26373b488637" />
 
+Im using a SKR pico now sooooo... I first feed the 5V encoder signal through a Pico 2 to translate it to 3.3v
+
+## Aug 15
+Hours: 4h
+Programming... Got motor and encoder working. Motor was way to slow to be observalble so I thougt it wasnt working for an hour 😭
+
+## Aug 16 
+Hours: 4h
+Programming... AND TUNING!!!! and testing. No challange here really, smooth sailing
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/KhN0Yt5W-70">
+</iframe>
 
