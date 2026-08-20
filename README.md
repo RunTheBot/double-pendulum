@@ -1,8 +1,7 @@
 # Inverted Pendulum
 Controls project, showing off inverting a pendulum. Uses a motor belt drive on a MGN12 Rail. Software uses the USB to CAN function of the Spark Max to do current control from a LQR controller. 
 
-[<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d9969e3a-fe50-4f8b-a0c2-fca6e6d424be" />
-](https://www.youtube.com/watch?v=KhN0Yt5W-70)
+[<img width="3840" height="2160" alt="Compound Clip 1_00_22_35_05 (1)" src="https://github.com/user-attachments/assets/372b6304-ebbe-40d2-a444-32e301e73520" />](https://www.youtube.com/watch?v=KhN0Yt5W-70)
 
 ## But why?
 
